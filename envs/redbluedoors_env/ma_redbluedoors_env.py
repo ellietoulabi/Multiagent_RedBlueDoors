@@ -76,7 +76,7 @@ class RedBlueDoorEnv(ParallelEnv):
         self.red_door_opened = False
         self.blue_door_opened = False
         
-        self.action_spaces = {agent: spaces.Discrete(6) for agent in self.agents}
+        self.action_spaces = {agent: spaces.Discrete(5) for agent in self.agents}
         self.observation_spaces = {
             agent: spaces.Dict({
                 "position": spaces.Box(low=0, high=max(self.width, self.height), shape=(2,), dtype=np.int32),
@@ -124,7 +124,6 @@ class RedBlueDoorEnv(ParallelEnv):
             (new_x, new_y) not in proposed_positions.values() and \
             (new_x, new_y) not in [self.red_door, self.blue_door]:
                 proposed_positions[agent] = (new_x, new_y)
-
         # Apply movement after validating all
         self.agent_positions = proposed_positions
         
@@ -141,7 +140,7 @@ class RedBlueDoorEnv(ParallelEnv):
                 
                 if self._is_adjacent(x, y, self.red_door) and not self.red_door_opened:
                     self.red_door_opened = True
-                    rewards[agent] = 10
+                    # rewards[agent] = 10
                     print(f"✅ {agent} successfully opened Red Door!")
                 elif self._is_adjacent(x, y, self.blue_door) and self.red_door_opened and not self.blue_door_opened:
                     self.blue_door_opened = True

@@ -1,0 +1,5001 @@
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Episode 0, Total Reward: 0
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 0, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
+Obs:
+ {'agent_0': {'position': array([1, 1], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}, 'agent_1': {'position': array([3, 3], dtype=int32), 'red_door_opened': 0, 'blue_door_opened': 0}}
+Actions:
+ {'agent_0': 4, 'agent_1': 4}
+# # # # #
+# 0 _ _ B
+# _ _ _ #
+R _ _ 1 #
+# # # # #
+
