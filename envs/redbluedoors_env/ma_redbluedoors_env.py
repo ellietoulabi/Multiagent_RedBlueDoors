@@ -13,7 +13,6 @@ class RedBlueDoorEnv(ParallelEnv):
     
     - A reward of **1** is given to both agents if and only if the **red door is opened first** and then the **blue door**.
     - If the **blue door is opened first**, the **episode ends immediately** with a reward of **0** for both agents.
-    - The blue agent must **wait** for the red agent to open the red door before successfully receiving a reward.
     - The task can be solved through **visual observation** or by a **single agent opening both doors**, meaning **explicit communication is not necessary**.
     
     """
@@ -130,11 +129,10 @@ class RedBlueDoorEnv(ParallelEnv):
         for agent, action in actions.items():
             x, y = self.agent_positions[agent]
             
-            if action == 5:  # Open Door Action
+            if action == 4:  # Open Door Action
                 if self._is_adjacent(x, y, self.blue_door) and not self.red_door_opened:
                     print(f"❌ {agent} attempted to open Blue Door before Red Door! Task failed.")
                     # return self._get_obs(), {agent: 0 for agent in self.agents}, {agent: True for agent in self.agents}, {}
-                    print(f"❌ {agent} attempted to open Blue Door before Red Door! Task failed.")
                     dones = {agent: True for agent in self.agents}
                     return self._get_obs(), {agent: 0.0 for agent in self.agents}, dones, {}
                 
@@ -144,7 +142,7 @@ class RedBlueDoorEnv(ParallelEnv):
                     print(f"✅ {agent} successfully opened Red Door!")
                 elif self._is_adjacent(x, y, self.blue_door) and self.red_door_opened and not self.blue_door_opened:
                     self.blue_door_opened = True
-                    rewards = {agent: 1 for agent in self.agents}
+                    rewards = {agent: 10 for agent in self.agents}
                     if self.blue_door_opened and self.red_door_opened:
                         dones = {agent: True for agent in self.agents}
                     else:
